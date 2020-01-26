@@ -7,7 +7,7 @@
 
 ## 用法  
 
-可直接下载 /tree/master/dist/hashpwd.js ，将其包含在网页中：
+可直接下载 https://github.com/Janusec/hashpwd/blob/master/dist/hashpwd.js ，并在网页中引用：
 ```
  <script src="/path/to/hashpwd.js"></script>
 ```
